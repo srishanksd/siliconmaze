@@ -1,0 +1,10 @@
+{
+  "name": "sri-last-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SRI's digital survival archive portfolio",
+  "scripts": {
+    "build": "echo Static portfolio ready for deployment",
+    "start": "npx serve ."
+  }
+}
